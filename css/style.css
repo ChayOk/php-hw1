@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 20px 50px;
+}
+.task{
+    border-bottom: 1px solid #000;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+h2{
+    margin-bottom: 15px;
+}
+p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    background: rgb(118, 118, 123);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
